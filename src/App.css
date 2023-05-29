@@ -1,0 +1,36 @@
+.App {
+  background: #edf0f6;
+  padding: 1rem;
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+}
+
+.markdown {
+  white-space: pre-wrap;
+}
+
+.form {
+  margin: 2rem;
+}
+
+.key {
+  margin: 1rem;
+}
+
+.titlebar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.editor {
+  margin: 2rem;
+}
+
+.tags {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
